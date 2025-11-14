@@ -18,6 +18,6 @@ account= BankAccount('Govardhan',1000)
 print("Balance :",account.get_balance())
 account.deposit(200)
 print("Balance :",account.get_balance())
-account.withdraw(300)
+account.withdraw(500)
 print("Balance :",account.get_balance())
 
